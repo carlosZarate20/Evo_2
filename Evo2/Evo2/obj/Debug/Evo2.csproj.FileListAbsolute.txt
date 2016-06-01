@@ -1,0 +1,6 @@
+D:\Evo2\Evo2\bin\Evo2.dll.config
+D:\Evo2\Evo2\bin\Evo2.dll
+D:\Evo2\Evo2\bin\Evo2.pdb
+D:\Evo2\Evo2\obj\Debug\Evo2.csprojResolveAssemblyReference.cache
+D:\Evo2\Evo2\obj\Debug\Evo2.dll
+D:\Evo2\Evo2\obj\Debug\Evo2.pdb

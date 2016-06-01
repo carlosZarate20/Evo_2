@@ -1,0 +1,7 @@
+D:\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.dll
+D:\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.pdb
+D:\Evo2\Evo2.Tests\bin\Debug\Evo2.dll
+D:\Evo2\Evo2.Tests\bin\Debug\Evo2.pdb
+D:\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.csprojResolveAssemblyReference.cache
+D:\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.dll
+D:\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.pdb
