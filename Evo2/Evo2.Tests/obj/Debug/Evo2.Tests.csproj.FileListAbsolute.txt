@@ -5,3 +5,12 @@ D:\Evo2\Evo2.Tests\bin\Debug\Evo2.pdb
 D:\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.csprojResolveAssemblyReference.cache
 D:\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.dll
 D:\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.pdb
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.dll
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\Evo2.Tests.pdb
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\Evo2.dll
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\nunit.framework.dll
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\Evo2.pdb
+D:\EVO_VALE\Evo2\Evo2.Tests\bin\Debug\nunit.framework.xml
+D:\EVO_VALE\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.csprojResolveAssemblyReference.cache
+D:\EVO_VALE\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.dll
+D:\EVO_VALE\Evo2\Evo2.Tests\obj\Debug\Evo2.Tests.pdb

@@ -1,12 +1,12 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace Evo2.Tests
 {
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
-        [TestMethod]
+        [TestCase]
         public void TestSumaIgual()
         {
             Class1 clase = new Class1();
@@ -18,7 +18,7 @@ namespace Evo2.Tests
 
             Assert.AreEqual(esperado, actual);
         }
-        [TestMethod]
+        [TestCase]
         public void TestRestaIgual()
         {
             Class1 clase = new Class1();
@@ -30,7 +30,7 @@ namespace Evo2.Tests
             Assert.AreNotEqual(esperado, actual);
         }
 
-        [TestMethod]
+        [TestCase]
         public void TestBoolExiste()
         {
             Class1 clase = new Class1();
@@ -40,14 +40,14 @@ namespace Evo2.Tests
         }
 
 
-        [TestMethod]
+        [TestCase]
         public void TestString()
         {
             Class1 clase = new Class1();
             string p = "hola";
             Assert.AreEqual(p, clase.Palabra());
         }
-        [TestMethod]
+        [TestCase]
         public void TestStringMoIgual()
         {
             Class1 clase = new Class1();
@@ -55,7 +55,7 @@ namespace Evo2.Tests
             Assert.AreNotEqual(p, clase.Palabra());
         }
 
-        [TestMethod]
+        [TestCase]
         public void TestISNOTNULL()
         {
             Class1 clase = new Class1();
